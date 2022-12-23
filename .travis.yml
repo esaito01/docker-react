@@ -8,5 +8,5 @@ before_install:
   - docker build -t esaito01/docker-react -f Deckerfile.dev .
 
 script:
-#  - docker run -e CI=ture esaito01/docker-react npm run test -- --coverage
+##  - docker run -e CI=ture esaito01/docker-react npm run test -- --coverage
    - docker run -e CI=ture esaito01/docker-react npm run test
