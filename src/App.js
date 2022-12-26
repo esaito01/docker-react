@@ -7,20 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hisear Edit <code>src/App.js</code> and save to reload.
-          By there
-          aaaaaaaaaaaaa
-          bbbbbb
+          I was changed on the feature branch
+          
+          YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 
-          dddddddd
-
-          eeeee
-
-          ffff
-
-          eeeee
-
-          yyyy
         </p>
         <a
           className="App-link"
